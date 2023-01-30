@@ -31,6 +31,7 @@ function sumArray(array) {
     }
 }
 
+sumArray(['ola k ase'])
 sumArray(null)
 sumArray([])
 sumArray([3, 5])
